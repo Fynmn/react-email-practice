@@ -75,11 +75,11 @@ const UserInvitationEmail = ({
 
         <Container className="bg-gray-600 flex justify-center text-center mt-8 p-4">
           <Column>
-            <Text className="px-10">
+            <Text className="px-10 text-white">
               If the link does not work, you may contact the admin with the
               contact information below:
             </Text>
-            <Text className="font-medium">
+            <Text className="font-medium text-white">
               svenn_admin@springvalley.com <br></br>09123456789
             </Text>
           </Column>

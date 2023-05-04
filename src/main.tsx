@@ -12,7 +12,6 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
       email={"carlo@gmail.com"}
     /> */}
     <VisitorRequestEmail
-      validationCode={"abnormal-carlo"}
       firstName={"Carlo"}
       email={"carlo@gmail.com"}
     ></VisitorRequestEmail>
